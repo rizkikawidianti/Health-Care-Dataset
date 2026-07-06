@@ -1,8 +1,8 @@
-# Health-Care-Dataset
+# Healthcare SQL Data Cleaning Practice
 
 **Project Overview:**
 
-This project focuses on cleaning and preparing a messy Health Care dataset using SQL. The raw data contains information such as age, blood pressure, cholesterol levels, visit dates, etc. There are inconsistencies such as duplicate rows, missing values, and inconsistent formatting, which could lead to incorrect business insight if not handled properly.
+This is an early SQL data cleaning practice project focused on missing value handling, category standardization, date correction, and numeric field validation. This project focuses on cleaning and preparing a messy Health Care dataset using SQL. The raw data contains information such as age, blood pressure, cholesterol levels, visit dates, etc. There are inconsistencies such as duplicate rows, missing values, and inconsistent formatting, which could lead to incorrect business insight if not handled properly.
 
 
 **Business Context:**
